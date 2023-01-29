@@ -1758,7 +1758,7 @@ html{
 
 .submenu-item a.active{
   --tw-text-opacity: 1;
-  color: rgb(74 108 247 / var(--tw-text-opacity));
+  color: rgb(255 108 0 / var(--tw-text-opacity));
 }
 
 .a4s .submenu-item a.active{
